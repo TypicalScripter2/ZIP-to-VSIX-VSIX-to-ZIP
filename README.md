@@ -18,5 +18,3 @@
 • Operating System: Windows, macOS, or Linux
 
 • File must be .zip or .vsix
-
-• Write permission in the folder containing the file
